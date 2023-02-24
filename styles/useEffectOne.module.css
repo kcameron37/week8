@@ -1,0 +1,20 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  height: 200px;
+  font-size: 30px;
+  border: 3px solid #365486;
+  margin: 200px;
+  color:var(--primary-color);
+}
+
+  .header{
+    font-size: 24px;
+  }
+
+  .main a {
+    color: var(--secondary-color);
+  }
