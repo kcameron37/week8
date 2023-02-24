@@ -1,6 +1,6 @@
 import Link from "next/link"
 import { useEffect,useState} from "react";
-import styles from '@/styles/UseEffectTwo.module.css'
+import styles from '@/styles/useEffectThree.module.css'
 
 export default function UseEffectTwo() {
 
